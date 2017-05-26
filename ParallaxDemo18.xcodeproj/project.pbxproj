@@ -39,6 +39,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		49AED0DC1ED80213004C55BF /* Gif */ = {
+			isa = PBXGroup;
+			children = (
+				49AED0DA1ED80081004C55BF /* image000.gif */,
+			);
+			name = Gif;
+			sourceTree = "<group>";
+		};
 		49F721B41E82CFB30059D733 = {
 			isa = PBXGroup;
 			children = (
@@ -61,11 +69,11 @@
 				49F721C01E82CFB30059D733 /* AppDelegate.swift */,
 				49F721C21E82CFB30059D733 /* ViewController.swift */,
 				49F721D21E82D41A0059D733 /* imageCell.swift */,
+				49AED0DC1ED80213004C55BF /* Gif */,
 				49F721C41E82CFB30059D733 /* Main.storyboard */,
 				49F721C71E82CFB30059D733 /* Assets.xcassets */,
 				49F721C91E82CFB30059D733 /* LaunchScreen.storyboard */,
 				49F721CC1E82CFB30059D733 /* Info.plist */,
-				49AED0DA1ED80081004C55BF /* image000.gif */,
 			);
 			path = ParallaxDemo18;
 			sourceTree = "<group>";
