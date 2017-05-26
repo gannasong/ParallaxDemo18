@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49AED0DB1ED80081004C55BF /* image000.gif in Resources */ = {isa = PBXBuildFile; fileRef = 49AED0DA1ED80081004C55BF /* image000.gif */; };
 		49F721C11E82CFB30059D733 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F721C01E82CFB30059D733 /* AppDelegate.swift */; };
 		49F721C31E82CFB30059D733 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F721C21E82CFB30059D733 /* ViewController.swift */; };
 		49F721C61E82CFB30059D733 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49F721C41E82CFB30059D733 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49AED0DA1ED80081004C55BF /* image000.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = image000.gif; path = "../../Desktop/亂七八糟圖檔/image000.gif"; sourceTree = "<group>"; };
 		49F721BD1E82CFB30059D733 /* ParallaxDemo18.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParallaxDemo18.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F721C01E82CFB30059D733 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49F721C21E82CFB30059D733 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				49F721C71E82CFB30059D733 /* Assets.xcassets */,
 				49F721C91E82CFB30059D733 /* LaunchScreen.storyboard */,
 				49F721CC1E82CFB30059D733 /* Info.plist */,
+				49AED0DA1ED80081004C55BF /* image000.gif */,
 			);
 			path = ParallaxDemo18;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 				49F721CB1E82CFB30059D733 /* LaunchScreen.storyboard in Resources */,
 				49F721C81E82CFB30059D733 /* Assets.xcassets in Resources */,
 				49F721C61E82CFB30059D733 /* Main.storyboard in Resources */,
+				49AED0DB1ED80081004C55BF /* image000.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +310,7 @@
 				49F721D11E82CFB30059D733 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
